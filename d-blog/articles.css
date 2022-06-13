@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: lightgray;
+}
+.container {
+  width: 60%;
+  height: auto;
+  background-color: #efe9f4;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  border: 4px solid navy;
+}
+.article p {
+  font-size: 24px;
+}
+.article span {
+  text-decoration: 3px underline;
+}

@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: lightgray;
+  text-align: center;
+}
+.container {
+  width: 80%;
+  height: auto;
+  background-color: #efe9f4;
+}
+.article {
+  border: 3px solid #08b2e3;
+  width: 100%;
+}
+.article h3 {
+  font-size: 32px;
+}
